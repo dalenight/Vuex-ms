@@ -1,0 +1,44 @@
+{
+    "status":"0",
+    "msg":"这是商品列表数据",
+    "result":[
+        {
+            "id": "2356",
+            "imgUrl": "https://img14.360buyimg.com/n2/jfs/t24808/284/2205459551/791856/1d0cbf0d/5bc6038eN3a025669.png",
+            "newprice": "4688",
+            "oldprice": "4999",
+            "title": "【送碎屏险】华为mate20pro手机 亮黑色 6GB+128GB 全网通",
+            "goodsinfo": "66"
+          },
+      
+          {
+            "id": "2357",
+            "imgUrl": "https://m.360buyimg.com/babel/jfs/t17383/125/1470478028/71155/1cb53bc2/5acc5248N6a5f81cd.jpg!q100.jpg.webp",
+            "newprice": "4356",
+            "oldprice": "5466",
+            "title": "【二手9成新】 Apple iPhone 7 plus苹果7plus 苹果7P 二手手机 亮黑色 国行 128G 国行 全网通",
+            "goodsinfo": "27"
+          },
+      
+      
+          {
+            "id": "2358",
+            "imgUrl": "https://m.360buyimg.com/babel/jfs/t1/28275/29/9162/111943/5c790287E39ef4f6b/a425b527a15e6537.jpg!q100.jpg.webp",
+            "newprice": "2666",
+            "oldprice": "3777",
+            "title": "苹果6splus京东秒杀，满减到手低至1568，速度开抢",
+            "goodsinfo": "54"
+          },
+      
+      
+          {
+            "id": "2359",
+            "imgUrl": "https://m.360buyimg.com/babel/jfs/t1/18351/39/9413/92889/5c7f2b1bE41d7f472/dcebb906f5cecbb8.jpg!q100.jpg.webp",
+            "newprice": "3765",
+            "oldprice": "4000",
+            "title": "【二手9成新】 Apple iPhone 7 苹果7 二手手机 黑色 128G 国行 全网通",
+            "goodsinfo": "76"
+          }
+    ]
+
+}
