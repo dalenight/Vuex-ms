@@ -46,6 +46,7 @@ router.get('/getuserlist',(req,res) => {
 // var app = express()
 var goodsData = require('../mock/goods.json')
 router.get('/goods',function(req,res,next){
+  
   // const sqlStr='select * from goods'
   // connection.query(sqlStr,(err,data) => {
   //   if(err){

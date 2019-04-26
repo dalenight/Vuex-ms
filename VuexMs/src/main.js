@@ -22,9 +22,9 @@ Vue.prototype.axios=axios;
 import store from './veux/store'
 
 
-store.dispatch('GET_USERLIST').then(() =>{
-  console.log('用户数据11', store.state.userlist)
-})
+// store.dispatch('GET_USERLIST').then(() =>{
+//   console.log('用户数据11', store.state.userlist)
+// })
 
 
 Vue.use(ElementUI);

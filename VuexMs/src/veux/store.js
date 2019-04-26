@@ -46,7 +46,7 @@ const actions ={
 
 const getters={
     vipUsers:state => state.userlist.filter(v => v.age <= 25)
-}
+} 
 
 //------------- 创建 Vuex 仓库，并暴露出去  -----
 export default  new Vuex.Store({
